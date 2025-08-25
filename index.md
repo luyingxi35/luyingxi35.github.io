@@ -3,8 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a junior in [Institute for Interdisciplinary Information Sciences (IIIS, Yao Class)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Artificial Intelligence. 
-<!-- Prior to this, I was a member of the Chinese national team for the <span style="color:darkred"><strong>Asian Physics Olympiad</strong></span>.  -->
+I am currently a third-year undergraduate student in [Institute for Interdisciplinary Information Sciences (IIIS, Yao Class)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Artificial Intelligence. Prior to this, I was a member of the <span style="color:darkred"><strong>China National Physics Olympiad Training Team</strong></span>.
+
+In terms of academic performance, my average GPA is 3.81/4.00, which places me within the <span style="color:darkred"><strong>top 50%</strong></span> of my class. I have been conducting research under the supervision of Professor [Yi Li](https://ericyi.github.io/)since my sophomore year. Currently, I am pursuing research in <span style="color:darkred"><strong>robotics</strong></span>.
+
+Outside of research, I enjoy 🏊‍♂️ swimming, ⚾ softball, 🏸 badminton, 🎤 singing, 📖 reading, and 🌍 traveling. Next semester, I plan to start learning 🎾 tennis and 🇫🇷 French. I truly value meaningful conversations and collaborations—if you share similar interests or would like to connect on research or beyond, I would be delighted to hear from you!✨
 
 <!-- In terms of academic performance, my average GPA is 3.98, <span style="color:darkred"><strong>ranking first in my class</strong></span>. I started doing scientific research advised by Prof. [Li Yi](https://ericyi.github.io/) in the second semester of my freshman year. Currently, I am serving as a student intern in [LeCAR Lab](https://lecar-lab.github.io/) at Carnegie Mellon University, where I am advised by Prof. [Guanya Shi](https://www.gshi.me/). My primary research interests include physics-based motion synthesis and robot learning. -->
 
