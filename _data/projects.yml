@@ -1,0 +1,43 @@
+main:
+  - title: "Approximation Algorithms for the Facility Location Problem: A Survey"
+    image: ./assets/img/algo.png
+    description: "Surveyed the development, variants, and practical performance of approximation algorithms for the Facility Location Problem, highlighting theoretical advances and implementation insights."
+    pdf: ./assets/files/algorithm_design.pdf
+  - title: "STAMP: Style Transfer Through Adapter-Based Memory and Prompt Engineering for Classical Chinese Translation"
+    image: ./assets/img/nlp.png
+    description: "Proposed STAMP—a dual approach combining targeted prompt engineering with a pluggable memory-augmented adapter—for controllable translation from modern to Classical Chinese."
+    pdf: ./assets/files/nlp.pdf
+    # code: https://github.com/knightnemo/nlp-proj
+  - title: "Path Tracing Rendering from Scratch"
+    image: ./assets/img/acg.png
+    description: "Investigated photorealistic image synthesis through a from-scratch C++ path tracing renderer, analyzing acceleration structures, sampling strategies, and material modeling to evaluate efficiency and quality."
+    # page: https://sites.google.com/view/eai-manigen/
+    pdf: ./assets/files/ACG_report.pdf
+    code: https://github.com/Yao-class-graphics-studio/project-yingxi-lu-jiani-wang
+  - title: "Open Air Hot Spring: An Online Marketplace"
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    # conference_short: MICCAI
+    #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/Integer003/Open-air-hot-spring
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/market.png
+    video: ./assets/img/market.mp4
+    description: It's a platform that allows operators, sellers, and regulators to manage and interact with goods and services in an online marketplace.
+    language: Scala, TypeScript, HTML, CSS
+    notes: Team awarded second place!
+  - title: Stable Personalized Music2Dance Video Generation
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    # conference_short: MICCAI
+    #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: ./assets/files/DL.pdf
+    # code: https://github.com/knightnemo/Stick_Figure_vs_CAD
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/DL.png
+    description: Introduced MagicDance, a fascinate pipeline that can automatically produce personalized dance videos from an arbitrary music clip and a single reference image of a dancer.
+    # language: C#, Unity
+    notes: Team awarded second place!
+  - title: "Art Style Classification: Enhancing Accuracy with Shallow Neural Network Adapter"
+    image: ./assets/img/cv.png
+    description: "We slove the art-style-classification problem by a two-stage architecture where a DNN extracts features from image patches and an SNN adapter makes the final classification."
+    pdf: ./assets/files/cv.pdf
