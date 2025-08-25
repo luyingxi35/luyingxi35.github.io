@@ -2,7 +2,7 @@ main:
   - title: "Approximation Algorithms for the Facility Location Problem: A Survey"
     image: ./assets/img/algo.png
     description: "Surveyed the development, variants, and practical performance of approximation algorithms for the Facility Location Problem, highlighting theoretical advances and implementation insights."
-    pdf: ./assets/files/algorithm_design.pdf
+    pdf: ./assets/files/algorithm-design.pdf
   - title: "STAMP: Style Transfer Through Adapter-Based Memory and Prompt Engineering for Classical Chinese Translation"
     image: ./assets/img/nlp.png
     description: "Proposed STAMP—a dual approach combining targeted prompt engineering with a pluggable memory-augmented adapter—for controllable translation from modern to Classical Chinese."
@@ -19,10 +19,10 @@ main:
     # conference_short: MICCAI
     #conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    video: ./assets/img/market.mp4
     code: https://github.com/Integer003/Open-air-hot-spring
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/market.png
-    video: ./assets/img/market.mp4
     description: It's a platform that allows operators, sellers, and regulators to manage and interact with goods and services in an online marketplace.
     language: Scala, TypeScript, HTML, CSS
     notes: Team awarded second place!
