@@ -20,7 +20,6 @@ Currently, I am particularly interested in <span style="color:darkred"><strong>r
 
 {% include_relative _includes/selected_awards.md %}
 
-<!-- ## Experience -->
 
 
 <!-- ## News
