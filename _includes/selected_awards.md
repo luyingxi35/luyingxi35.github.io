@@ -4,8 +4,8 @@
 
 <ul style="margin:0 0 5px;">
   <li><a><autocolor>Second-Class Scholarship of the Xi’an Institute of Interdisciplinary Information Core Technology.</autocolor></a></li>
-  <li><a><autocolor>Advanced Individual in Social Work.</autocolor></a><strong> 
-  <li><a><autocolor>Champion of the Softball (Slowpitch Division) at the Capital Universities Games.</autocolor></a><strong> 
+  <li><a><autocolor>Advanced Individual in Social Work.</autocolor></a><li> 
+  <li><a><autocolor>Champion of the Softball (Slowpitch Division) at the Capital Universities Games.</autocolor></a><li> 
 </ul>
 
 <h4 style="margin:0 10px 0;">2023</h4>
