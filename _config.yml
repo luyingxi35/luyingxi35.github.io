@@ -1,10 +1,10 @@
 # Basic Information 
 title: 
-  - 李忆唐
-  - Yitang Li
+  - 陆颖熙
+  - Yingxi Lu
 position: Undergraduate Student
 affiliation: Tsinghua University
-email: liyitang22@mails.tsinghua.edu.cn
+email: lu-yx23@mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,15 +14,15 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=5nqArY8AAAAJ&hl=en&oi=sra
-cv_link: https://docs.google.com/document/d/1hB9mg6WHFCK8tm0O-PbIs1-FcoVmldFjj0-L-OLKwpQ/edit?tab=t.0
-# github_link: https://github.com/liyitang22
+# google_scholar: https://scholar.google.com/citations?user=5nqArY8AAAAJ&hl=en&oi=sra
+# cv_link: https://docs.google.com/document/d/1hB9mg6WHFCK8tm0O-PbIs1-FcoVmldFjj0-L-OLKwpQ/edit?tab=t.0
+github_link: https://github.com/luyingxi35
 # linkedin: https://www.linkedin.com/
-twitter: https://x.com/li_yitang
+# twitter: https://x.com/li_yitang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/lyt2.png
+# avatar: ./assets/img/lyt2.png
 favicon: ./assets/img/favicon2.png
 favicon_dark: ./assets/img/favicon2.png
 
