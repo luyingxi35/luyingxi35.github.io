@@ -18,6 +18,8 @@ Currently, I am particularly interested in <span style="color:darkred"><strong>r
 
 {% include_relative _includes/projects.md %}
 
+{% include_relative _includes/selected_awards.md %}
+
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -27,4 +29,3 @@ Currently, I am particularly interested in <span style="color:darkred"><strong>r
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-<!-- {% include_relative _includes/selected_awards.md %} -->
