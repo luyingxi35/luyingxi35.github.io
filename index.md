@@ -9,15 +9,11 @@ In terms of academic performance, my average GPA is 3.81/4.00, which places me w
 
 Outside of research, I enjoy <span style="color:darkred"><strong>🏊‍♂️ swimming, ⚾ softball, 🏸 badminton, 🎤 singing, 📖 reading</strong></span>, and <span style="color:darkred"><strong>🌍 traveling</strong></span>. Next semester, I plan to start learning <span style="color:darkred"><strong>🎾 tennis</strong></span> and <span style="color:darkred"><strong>🇫🇷 French.</strong></span> I truly value meaningful conversations and collaborations—if you share similar interests or would like to connect on research or beyond, I would be delighted to hear from you!✨
 
-<!-- In terms of academic performance, my average GPA is 3.98, <span style="color:darkred"><strong>ranking first in my class</strong></span>. I started doing scientific research advised by Prof. [Li Yi](https://ericyi.github.io/) in the second semester of my freshman year. Currently, I am serving as a student intern in [LeCAR Lab](https://lecar-lab.github.io/) at Carnegie Mellon University, where I am advised by Prof. [Guanya Shi](https://www.gshi.me/). My primary research interests include physics-based motion synthesis and robot learning. -->
-
-<!-- **In addition to my academic and research work, I am an outgoing and enthusiastic communicator.** I have frequently taken center stage as an **emcee**, **performer**, and **student representative speaker** at major university events 🎤🎭, and have served as **class monitor** to support my peers 🙋‍♀️. **I love meeting new people and making friends** 😊. In my free time, I enjoy **singing** 🎶, **dancing** 💃, **fitness** 🏋️, and **traveling** ✈️ — which have all helped shape my confidence and collaborative spirit 🌟. -->
-
-
 ## Research Interests
-
-<!-- - **Computer Vision:** physics-based motion synthesis, interaction-centered motion synthesis, vision-languge model, motion structure -->
-- **Robot Learning:** robot control, reinforcement learning
+My research interests include: 
+- **Robotics:** Robot learning and control; Contact-rich and deformable object manipulation; Reinforcement learning.
+- **Multi-modal LLMs:** Reasoning with multi-modal LLMs.
+Currently, I am particularly interested in <span style="color:darkred"><strong>robotics</strong></span>, and I have been devoted to exploring and improving the <span style="color:darkred"><strong>scaling laws of synthetic data</strong></span> for robot learning.
 
 <!-- ## News
 
