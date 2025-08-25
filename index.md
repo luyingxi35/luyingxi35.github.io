@@ -13,6 +13,7 @@ Outside of research, I enjoy <span style="color:darkred"><strong>🏊‍♂️ s
 My research interests include: 
 - **Robotics:** Robot learning and control; Contact-rich and deformable object manipulation; Reinforcement learning.
 - **Multi-modal LLMs:** Reasoning with multi-modal LLMs.
+
 Currently, I am particularly interested in <span style="color:darkred"><strong>robotics</strong></span>, and I have been devoted to exploring and improving the <span style="color:darkred"><strong>scaling laws of synthetic data</strong></span> for robot learning.
 
 <!-- ## News
