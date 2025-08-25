@@ -16,6 +16,8 @@ My research interests include:
 
 Currently, I am particularly interested in <span style="color:darkred"><strong>robotics</strong></span>, and I have been devoted to exploring and improving the <span style="color:darkred"><strong>scaling laws of synthetic data</strong></span> for robot learning.
 
+{% include_relative _includes/projects.md %}
+
 <!-- ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.

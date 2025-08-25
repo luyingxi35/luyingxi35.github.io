@@ -41,3 +41,4 @@ main:
     image: ./assets/img/cv.png
     description: "We slove the art-style-classification problem by a two-stage architecture where a DNN extracts features from image patches and an SNN adapter makes the final classification."
     pdf: ./assets/files/cv.pdf
+    code: https://github.com/luyingxi35/Art-Style-Classification
