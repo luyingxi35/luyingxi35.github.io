@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a second-year undergraduate student in [Institute for Interdisciplinary Information Sciences (IIIS, Yao Class)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Artificial Intelligence. Prior to this, I was a member of the <span style="color:darkred"><strong>China National Physics Olympiad Training Team</strong></span>.
+I am currently a third-year undergraduate student in [Institute for Interdisciplinary Information Sciences (IIIS, Yao Class)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Artificial Intelligence. Prior to this, I was a member of the <span style="color:darkred"><strong>China National Physics Olympiad Training Team</strong></span>.
 
 In terms of academic performance, my average GPA is 3.81/4.00, which places me within the <span style="color:darkred"><strong>top 50%</strong></span> of my class. I have been conducting research under the supervision of Professor [Yi Li](https://ericyi.github.io/) since my sophomore year. Currently, I am pursuing research in <span style="color:darkred"><strong>robotics</strong></span>.
 
