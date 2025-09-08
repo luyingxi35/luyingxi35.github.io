@@ -32,10 +32,6 @@ Currently, I am particularly interested in <span style="color:darkred"><strong>r
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-<footer style="text-align:center; margin-top:2rem; font-size:0.85rem; color:#666;">
-  <small>Updated Aug 2025. Template source from
-    <a href="https://liyitang22.github.io/" target="_blank" rel="noopener">here</a>.
-  </small>
-</footer>
+
 
 
