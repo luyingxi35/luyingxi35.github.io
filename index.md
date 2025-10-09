@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I am currently a third-year undergraduate student in [Institute for Interdisciplinary Information Sciences (IIIS, Yao Class)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), majoring in Artificial Intelligence. Prior to this, I was a member of the <span style="color:darkred"><strong>China National Physics Olympiad Training Team</strong></span>.
 
-In terms of academic performance, my average GPA is 3.81/4.00, which places me within the <span style="color:darkred"><strong>top 50%</strong></span> of my class. I have been conducting research under the supervision of Professor [Yi Li](https://ericyi.github.io/) since my sophomore year. Currently, I am pursuing research in <span style="color:darkred"><strong>robotics</strong></span>.
+In terms of academic performance, my average GPA is 3.82/4.00, which places me within the <span style="color:darkred"><strong>top 50%</strong></span> of my class. I have been conducting research under the supervision of Professor [Yi Li](https://ericyi.github.io/) since my sophomore year. Currently, I am pursuing research in <span style="color:darkred"><strong>robotics</strong></span>.
 
 Outside of research, I enjoy <span style="color:darkred"><strong>🏊‍♂️ swimming, ⚾ softball, 🏸 badminton, 🎤 singing, 📖 reading</strong></span>, and <span style="color:darkred"><strong>🌍 traveling</strong></span>. Next semester, I plan to start learning <span style="color:darkred"><strong>🎾 tennis</strong></span> and <span style="color:darkred"><strong>🇫🇷 French.</strong></span> I truly value meaningful conversations and collaborations—if you share similar interests or would like to connect on research or beyond, I would be delighted to hear from you!✨
 
@@ -35,7 +35,6 @@ Currently, I am particularly interested in <span style="color:darkred"><strong>r
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
 
 <!-- {% include_relative _includes/publications.md %} -->
-
 
 
 
