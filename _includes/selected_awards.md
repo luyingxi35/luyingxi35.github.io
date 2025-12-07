@@ -1,4 +1,9 @@
 ## Selected Awards
+<h4 style="margin:0 10px 0;">2025</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><a><autocolor>Comprehensive Merit Scholarship of Tsinghua.</autocolor></a></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">2024</h4>
 
