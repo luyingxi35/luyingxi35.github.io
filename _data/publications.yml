@@ -1,7 +1,6 @@
 main:
   - title: Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching
-    authors: Chenyu Zhang, Yuhang Cao, <strong>Yingxi Lu</strong>, Daru Du, Jing Shao, <a href="https://jedward225.github.io/" target="_blank">Jiajun Liu</a>, Ruoqu Chen, Liu Cao, Yicheng Liu, Hang Zhao, Mengdi Xu
-    authors: <a href="https://chenyuzhangx.github.io/" target="_blank">Chenyu Zhang*</a>, <a href="https://scholar.google.com/citations?user=9SDGjroAAAAJ&" target="_blank">Yuhang Cao*</a>, <strong>Yingxi Lu</strong>, Daru Du, Jing Shao, <strong>Jiajun Liu</strong>, <a href="https://gcfy63821.github.io/" target="_blank">Ruoqu Chen</a>, <a href="https://xiaohu-art.github.io/" target="_blank">Liu Cao</a>, <a href="https://mrmoore98.github.io/liuyicheng/" target="_blank">Yicheng Liu</a>, <a href="https://hangzhaomit.github.io/" target="_blank">Hang Zhao</a>, <a href="https://www.mengdixu.me/" target="_blank">Mengdi Xu†</a>
+    authors: <a href="https://chenyuzhangx.github.io/" target="_blank">Chenyu Zhang*</a>, <a href="https://scholar.google.com/citations?user=9SDGjroAAAAJ&" target="_blank">Yuhang Cao*</a>, <strong>Yingxi Lu</strong>, Daru Du, Jing Shao, <a href="https://jedward225.github.io/" target="_blank">Jiajun Liu</a>, <a href="https://gcfy63821.github.io/" target="_blank">Ruoqu Chen</a>, <a href="https://xiaohu-art.github.io/" target="_blank">Liu Cao</a>, <a href="https://mrmoore98.github.io/liuyicheng/" target="_blank">Yicheng Liu</a>, <a href="https://hangzhaomit.github.io/" target="_blank">Hang Zhao</a>, <a href="https://www.mengdixu.me/" target="_blank">Mengdi Xu†</a>
     conference: preprint
     project: https://causalactiontokenizer.github.io/
     image: ./assets/img/catok.jpg
