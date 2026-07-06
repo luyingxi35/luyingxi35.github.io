@@ -1,18 +1,28 @@
 main:
   - title: "IIIS, Tsinghua University"
-    image: ./assets/img/iiis.png
-    description: "Advised by <a href='https://www.mengdixu.me/'>Prof. Mengdi Xu</a> (Tsinghua University) <br> Developed an understanding of and interest in VLA and foundation models. <br> Reframing tokenization as a causally structured generative process by conditional annealing. <br> Excited to further explore the intersection of RL and reward modeling. <br> Failure-aware progress estimation for robotic manipulation with frame-level trajectory supervision and downstream real-world RL applications."
+    image: "./assets/img/iiis.png"
+    description: >-
+      Advised by <a href='https://www.mengdixu.me/'>Prof. Mengdi Xu</a> (Tsinghua University) <br> 
+      Developed an understanding of and interest in VLA and foundation models. <br> 
+      Reframing tokenization as a causally structured generative process by conditional annealing. <br> 
+      Excited to further explore the intersection of RL and reward modeling. <br> 
+      Failure-aware progress estimation for robotic manipulation with frame-level trajectory supervision and downstream real-world RL applications.
     time: "2026.2 - present"
-    page: https://www.mengdixu.me/
+    page: "https://www.mengdixu.me/"
 
   - title: "3DVICI Lab, Tsinghua University"
-    image: ./assets/img/iiis.png
-    description: "Advised by <a href='https://ericyi.github.io/'>Prof. Li Yi</a> (Tsinghua University) <br> Developing a perception-policy disentanglement framework for sim2real post-training to enhance policy performance while keeping generalizability. Extensive experience in both simulation and real-world robot experiments."
+    image: "./assets/img/iiis.png" # 请确认是否需要修改为 3dvici.png
+    description: >-
+      Advised by <a href='https://ericyi.github.io/'>Prof. Li Yi</a> (Tsinghua University) <br> 
+      Developing a perception-policy disentanglement framework for sim2real post-training to enhance policy performance while keeping generalizability. 
+      Extensive experience in both simulation and real-world robot experiments.
     time: "2025.6 - 2026.1"
-    page: https://ericyi.github.io/
+    page: "https://ericyi.github.io/"
 
   - title: "Moonshot AI, Beijing"
-    image: ./assets/img/moonshot.png
-    description: "<b>Algorithm Intern</b> <br> Enhanced the physics-reasoning capabilities of multi-modal large language models through reinforcement learning."
+    image: "./assets/img/moonshot.png"
+    description: >-
+      <b>Algorithm Intern</b> <br> 
+      Enhanced the physics-reasoning capabilities of multi-modal large language models through reinforcement learning.
     time: "2025.2 - 2025.8"
-    page: https://www.moonshot.cn/
+    page: "https://www.moonshot.cn/"
