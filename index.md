@@ -16,6 +16,8 @@ My long-term research interest lies in combining <span style="color:darkred"><st
 - <span style="color:darkred"><strong>RL Post-Training:</strong></span> Designing mechanisms for fast adaptation, continual learning, and exploiting real-world data feedback loops.
 - <span style="color:darkred"><strong>Generalizable Representations:</strong></span> Learning robust, reusable representations to bridge the gap between linguistic concepts and physical observations, enhancing policy generalization.
 
+{% include_relative _includes/publications.md %}
+
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/selected_awards.md %}

@@ -1,4 +1,17 @@
 main:
+  - title: Rethinking Causal Action Tokenization with Conditional Annealing in Flow Matching
+    authors: Chenyu Zhang, Yuhang Cao, <strong>Yingxi Lu</strong>, Daru Du, Jing Shao, <a href="https://jedward225.github.io/" target="_blank">Jiajun Liu</a>, Ruoqu Chen, Liu Cao, Yicheng Liu, Hang Zhao, Mengdi Xu
+    authors: <a href="https://chenyuzhangx.github.io/" target="_blank">Chenyu Zhang*</a>, <a href="https://scholar.google.com/citations?user=9SDGjroAAAAJ&" target="_blank">Yuhang Cao*</a>, <strong>Yingxi Lu</strong>, Daru Du, Jing Shao, <strong>Jiajun Liu</strong>, <a href="https://gcfy63821.github.io/" target="_blank">Ruoqu Chen</a>, <a href="https://xiaohu-art.github.io/" target="_blank">Liu Cao</a>, <a href="https://mrmoore98.github.io/liuyicheng/" target="_blank">Yicheng Liu</a>, <a href="https://hangzhaomit.github.io/" target="_blank">Hang Zhao</a>, <a href="https://www.mengdixu.me/" target="_blank">Mengdi Xu†</a>
+    conference: preprint
+    project: https://causalactiontokenizer.github.io/
+    image: ./assets/img/catok.jpg
+
+  - title: What Do VLAs Actually Learn through In-Context Failure Conditioning?
+    authors: <a href="https://jedward225.github.io/" target="_blank">Jiajun Liu</a>, Jieming Li, Zi Zhuang, Hang Yu, Qingli Chen, <a href="https://xiaohu-art.github.io/" target="_blank">Liu Cao</a>, <strong>Yingxi Lu</strong>, <a href="https://gcfy63821.github.io/" target="_blank">Ruoqu Chen</a>, <a href="https://scholar.google.com/citations?user=9SDGjroAAAAJ&" target="_blank">Yuhang Cao</a>, <a href="https://chenyuzhangx.github.io/" target="_blank">Chenyu Zhang</a>, <a href="https://linyankai.github.io/" target="_blank">Yankai Lin</a>, <a href="https://www.mengdixu.me/" target="_blank">Mengdi Xu†</a>
+    conference: CVPR 2026 Workshop on 3D-LLM/VLA
+    project: https://jedward225.github.io/RoboRetry/
+    code: https://github.com/jedward225/RoboRetry/
+    image: ./assets/img/roboretry_workshop.drawio.png
   # - title: "Hold My Beer🍻: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control"
   #   authors: <strong>Yitang Li</strong>, Yuanhang Zhang, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He, Guanya Shi
   #   conference_short: CoRL
@@ -33,24 +46,5 @@ main:
   #   image: ./assets/img/freemotion.png
   #   # notes: Early Accept
 
-  # - title: "EmbRACE-3K: Embodied Reasoning and Action in Complex Environments"
-  #   authors: Mingxian Lin*, Wei Huang*, <strong>Yitang Li</strong>, Chengjie Jiang, Kui Wu, Fangwei Zhong, Shengju Qian, Xin Wang, Xiaojuan Qi
-  #   conference_short: In submission
-  #   # conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-  #   pdf: https://arxiv.org/pdf/2507.10548
-  #   # code: "https://github.com/mxllc/EmbRACE-3K"
-  #   # project: "https://mxllc.github.io/EmbRACE-3K"
-  #   # image: ./assets/img/embrace3k.png
-  #   # notes: Early Accept
-
-  # - title: "MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory"
-  #   authors: Zifan Wang*, Jingwei Li*, <strong>Yitang Li</strong>, Yunze Liu (Equal Contribution)
-  #   conference_short: UAI
-  #   conference: The Conference on Uncertainty in Artificial Intelligence, 2025.
-  #   pdf: https://arxiv.org/abs/2505.11386
-  #   # code: https://github.com/MrGiovanni/ContinualLearning
-  #   # project: https://zzk273.github.io/freemotion.github.io/
-  #   image: ./assets/img/mutualnerf.png
-  #   # notes: Early Accept
 
 
