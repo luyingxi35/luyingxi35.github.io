@@ -4,8 +4,7 @@ main:
     description: >-
       Advised by <a href='https://www.mengdixu.me/'>Prof. Mengdi Xu</a> (Tsinghua University) <br>  
       Excited to further explore the intersection of RL and reward modeling. <br> 
-      Reframing tokenization as a causally structured generative process by conditional annealing. <br> 
-      Failure-aware progress estimation for robotic manipulation with frame-level trajectory supervision and downstream real-world RL applications.
+      Action tokenization for VLA. Failure-aware progress estimation.
     time: "2026.2 - present"
     page: "https://www.mengdixu.me/"
 
