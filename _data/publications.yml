@@ -3,6 +3,7 @@ main:
     authors: <a href="https://chenyuzhangx.github.io/" target="_blank">Chenyu Zhang*</a>, <a href="https://scholar.google.com/citations?user=9SDGjroAAAAJ&" target="_blank">Yuhang Cao*</a>, <strong>Yingxi Lu</strong>, Daru Du, Jing Shao, <a href="https://jedward225.github.io/" target="_blank">Jiajun Liu</a>, <a href="https://gcfy63821.github.io/" target="_blank">Ruoqu Chen</a>, <a href="https://xiaohu-art.github.io/" target="_blank">Liu Cao</a>, <a href="https://mrmoore98.github.io/liuyicheng/" target="_blank">Yicheng Liu</a>, <a href="https://hangzhaomit.github.io/" target="_blank">Hang Zhao</a>, <a href="https://www.mengdixu.me/" target="_blank">Mengdi Xu†</a>
     conference: preprint
     project: https://causalactiontokenizer.github.io/
+    page: https://causalactiontokenizer.github.io/
     image: ./assets/img/catok.jpg
 
   - title: What Do VLAs Actually Learn through In-Context Failure Conditioning?
@@ -11,6 +12,7 @@ main:
     project: https://jedward225.github.io/RoboRetry/
     code: https://github.com/jedward225/RoboRetry/
     image: ./assets/img/roboretry_workshop.drawio.png
+    page: https://jedward225.github.io/RoboRetry/
   # - title: "Hold My Beer🍻: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control"
   #   authors: <strong>Yitang Li</strong>, Yuanhang Zhang, Wenli Xiao, Chaoyi Pan, Haoyang Weng, Guanqi He, Tairan He, Guanya Shi
   #   conference_short: CoRL
