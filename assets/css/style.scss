@@ -2,3 +2,29 @@
 ---
 
 @import "minimal-light";
+
+/* Override avatar styles: show original aspect ratio without circular crop */
+.image.avatar,
+.image.avatar:before,
+.image.avatar img {
+  border-radius: 0 !important;
+}
+
+.image.avatar img {
+  width: auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  padding: 0 !important;
+}
+
+@media print, screen and (max-width: 1000px) {
+  .image.avatar img {
+    width: 200px !important;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  .image.avatar img {
+    width: 150px !important;
+  }
+}
