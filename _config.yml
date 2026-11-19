@@ -4,13 +4,14 @@ title:
   - Yingxi Lu
 position: Undergraduate Student
 affiliation: Tsinghua University
-email: lu-yx23@mails.tsinghua.edu.cn
+affiliation_link: https://www.tsinghua.edu.cn/en/
+email: yingxilu512@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Yingxi Lu, 陆颖熙, Tsinghua University, Physical AI, embodied agents, LLM policies, agentic environment and task generation, self-improving agents
+description: Yingxi Lu is a fourth-year undergraduate at Tsinghua University researching LLM-based embodied agents for Physical AI, including embodied policies, agentic environment and task generation, and self-improving agents.
+canonical: https://luyingxi35.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.

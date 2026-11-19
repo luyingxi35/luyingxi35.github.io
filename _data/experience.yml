@@ -1,11 +1,28 @@
 main:
+  - title: "Z.ai (Zhipu AI)"
+    image: "./assets/img/zai.png"
+    description: >-
+      <b>Intern</b> <br>
+      Working on LLM-based embodied agents for Physical AI, with a focus on embodied policies,
+      agentic environment and task generation, and self-improvement through interaction.
+    time: "2026.10 - present"
+    page: "https://www.zhipuai.cn/en"
+
+  - title: "KEG, Tsinghua University"
+    image: "./assets/img/tsinghua.png"
+    description: >-
+      <b>Intern</b> <br>
+      Working on LLM-based embodied agents for Physical AI, with a focus on embodied policies,
+      agentic environment and task generation, and self-improvement through interaction.
+    time: "2026.10 - present"
+    page: "https://keg.cs.tsinghua.edu.cn/home"
+
   - title: "IIIS, Tsinghua University"
     image: "./assets/img/iiis.png"
     description: >-
-      Advised by <a href='https://www.mengdixu.me/'>Prof. Mengdi Xu</a> (Tsinghua University) <br>  
-      Excited to further explore the intersection of RL and reward modeling. <br> 
-      Action tokenization for VLA. Failure-aware progress estimation.
-    time: "2026.2 - present"
+      Worked with <a href='https://www.mengdixu.me/'>Prof. Mengdi Xu</a> (Tsinghua University) <br>
+      Studied action tokenization for vision-language-action models and failure-aware progress estimation for robot learning.
+    time: "2026.02 - 2026.09"
     page: "https://www.mengdixu.me/"
 
   - title: "3DVICI Lab, Tsinghua University"
